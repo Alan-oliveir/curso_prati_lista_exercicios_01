@@ -1,6 +1,6 @@
-# Lista de Exercícios - Curso Prati+
+# Lista de Exercícios - Curso Dev. Full Stack Jr - +Prati & Codifica
 
-Este repositório contém os exercícios da **primeira lista de exercícios** do curso **Prati+**. Os exercícios foram desenvolvidos em JavaScript e podem ser executados localmente utilizando o Node.js.
+Este repositório contém os exercícios da **primeira lista de exercícios** do curso. Os exercícios foram desenvolvidos em JavaScript e podem ser executados localmente utilizando o Node.js.
 
 ## Pré-requisitos
 
@@ -21,7 +21,7 @@ Siga os passos abaixo para configurar o ambiente e executar os exercícios:
    ```bash
    cd nome-do-repositorio
 
-3. **Instale as dependências**: Execute o comando abaixo para instalar o pacote prompt-sync, necessário para capturar entradas do usuário no terminal:
+3. **Instale as dependências**: Execute o comando abaixo para instalar o pacote `prompt-sync`, necessário para capturar entradas do usuário no terminal:
    ```bash
    npm install
 
@@ -31,10 +31,9 @@ Cada exercício está em um arquivo separado. Para executar um exercício, siga 
 1. No terminal, execute o comando:
    ```bash
    node nome-do-arquivo.js
+   ```
 
-Substitua nome-do-arquivo.js pelo nome do arquivo do exercício que você deseja executar. Por exemplo:
-    ```bash
-    node exercicio_01.js
+**OBS**: Substitua `nome-do-arquivo.js` pelo nome do arquivo do exercício que você deseja executar. Por exemplo: `node exercicio_01.js`
 
 2. Siga as instruções exibidas no terminal para interagir com o programa.
 
