@@ -32,8 +32,7 @@ Cada exercício está em um arquivo separado. Para executar um exercício, siga 
    ```bash
    node nome-do-arquivo.js
    ```
-
-**OBS**: Substitua `nome-do-arquivo.js` pelo nome do arquivo do exercício que você deseja executar. Por exemplo: `node exercicio_01.js`
+    **OBS**: Substitua `nome-do-arquivo.js` pelo nome do arquivo do exercício que você deseja executar. Por exemplo: `node exercicio_01.js`
 
 2. Siga as instruções exibidas no terminal para interagir com o programa.
 
@@ -44,5 +43,3 @@ Cada exercício está em um arquivo separado. Para executar um exercício, siga 
 4. Exercício 04: Menu interativo com três opções.
 5. Exercício 05: Calcula o Índice de Massa Corporal (IMC) e determina a categoria de peso.
 6. Exercício 06: Verifica se três lados formam um triângulo e determina o tipo de triângulo (isósceles, escaleno ou equilátero).
-
-
